@@ -1,7 +1,6 @@
 # atividade-de-fork
 Nome da equipe: 
-
-GuaranaScript
+*GuaranaScript*
 
 Integrantes da equipe: 
 
