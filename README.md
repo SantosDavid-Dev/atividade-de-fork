@@ -1,8 +1,8 @@
 # atividade-de-fork
-Nome da equipe: 
-*GuaranaScript*
+_*Nome da equipe:*_
+_GuaranaScript_
 
-Integrantes da equipe: 
+_Integrantes da equipe:_ 
 
 David Santos 
 
