@@ -1,4 +1,14 @@
 # atividade-de-fork
-Nome da equipe: GuaranaScript
+Nome da equipe: 
 
-Integrantes da equipe: David Santos, Gabriel Ramos Felipe, Karla Santos e Railson Uchôa
+GuaranaScript
+
+Integrantes da equipe: 
+
+David Santos 
+
+Gabriel Ramos Felipe 
+
+Karla Santos 
+
+Railson Uchôa
